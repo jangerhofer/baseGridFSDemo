@@ -1,4 +1,5 @@
 # Base GridFS Demo
+![Screenshot of Uploads Page](screenshot.png)
 This repository illustrates how [GridFS](https://docs.mongodb.com/manual/core/gridfs/) can be used with [Meteor](https://www.meteor.com/) to store user-uploaded files.  The upload and file-save code builds on [The Meteor Chef's](https://themeteorchef.com/) terrific [Base Meteor starter project](https://github.com/themeteorchef/base).
 
 <table>
