@@ -1,0 +1,30 @@
+#dz {
+  width: 100% !important;
+  height: 50px !important;
+
+  div {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+  }
+}
+
+// Styling for upload dropzone w/out file hover and w/ file hover
+.dz-inactive {
+  border: 1px solid black;
+}
+.dz-active {
+  background: rgba(49,49,49,1);
+  color: white;
+  border: none;
+}
+
+// Styles for list of uploaded images
+#uploadList {
+  list-style: none;
+}
+
+.uploadedImage {
+  background-size: cover;
+  max-height: 400px;
+}
